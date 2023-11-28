@@ -1,3 +1,6 @@
+Download data from: 
+https://cseweb.ucsd.edu/~jmcauley/datasets.html#clothing_fit
+
 TODO:
 - Script that collects all figures from analysis
 - Make models/basic_tuning/
